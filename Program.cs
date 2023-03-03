@@ -7,6 +7,8 @@ namespace Lamda_function
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Validating data by Lamda Functions");
+            RegicClass regex = new RegicClass();
+            regex.Validating();
         }
     }
 }

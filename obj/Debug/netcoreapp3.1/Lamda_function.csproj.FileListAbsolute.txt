@@ -1,0 +1,14 @@
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\bin\Debug\netcoreapp3.1\Lamda_function.exe
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\bin\Debug\netcoreapp3.1\Lamda_function.deps.json
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\bin\Debug\netcoreapp3.1\Lamda_function.runtimeconfig.json
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\bin\Debug\netcoreapp3.1\Lamda_function.runtimeconfig.dev.json
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\bin\Debug\netcoreapp3.1\Lamda_function.dll
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\bin\Debug\netcoreapp3.1\Lamda_function.pdb
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\obj\Debug\netcoreapp3.1\Lamda_function.csproj.AssemblyReference.cache
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\obj\Debug\netcoreapp3.1\Lamda_function.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\obj\Debug\netcoreapp3.1\Lamda_function.AssemblyInfoInputs.cache
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\obj\Debug\netcoreapp3.1\Lamda_function.AssemblyInfo.cs
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\obj\Debug\netcoreapp3.1\Lamda_function.csproj.CoreCompileInputs.cache
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\obj\Debug\netcoreapp3.1\Lamda_function.dll
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\obj\Debug\netcoreapp3.1\Lamda_function.pdb
+D:\BridzeLabz\RFP-253-Bridzelabz\Day24\Lamda_function\Lamda_function\obj\Debug\netcoreapp3.1\Lamda_function.genruntimeconfig.cache
